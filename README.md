@@ -1,4 +1,5 @@
 # Inscendia - Interactive Data Storyteller
+<img src="https://raw.githubusercontent.com/kushagra-arya/Inscendia/refs/heads/main/data/Image%201.png">
 
 ![Inscendia](https://img.shields.io/badge/Inscendia-Data%20Storyteller-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.7%2B-blue)
@@ -33,6 +34,8 @@ Inscendia is a powerful, interactive data visualization and analysis application
 - Intelligent chart type recommendations based on data types
 - Statistical validation to prevent misleading visualizations
 - Educational guidance on best practices for data visualization
+
+<img src="https://raw.githubusercontent.com/kushagra-arya/Inscendia/refs/heads/main/data/Image%202.png">
 
 ### 🔍 Data Analysis
 - Automatic data profiling:
